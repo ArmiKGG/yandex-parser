@@ -57,7 +57,7 @@ driver = prepare_driver()
 data = match_all_orgs(es)["hits"]["hits"]
 
 for ind, i in enumerate(data):
-    category = i["class"]
+    category = i["_source"]["class"]
     driver.get(i["_source"]["url"].split("?")[0])
     if ind == 0:
         time.sleep(300)
