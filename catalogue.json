@@ -1,0 +1,1231 @@
+[{
+  "_id": {
+    "$oid": "628e16ed6b5f4774eb27f12b"
+  },
+  "url": "https://market.yandex.ru/catalog--smartfony/26893750/list?hid=91491&glfilter=21194330%3A34066443",
+  "class": "Смартфоны"
+},{
+  "_id": {
+    "$oid": "628e16ed6b5f4774eb27f12c"
+  },
+  "url": "https://market.yandex.ru/catalog--utsenennye-i-b-u-smartfony/33796733/list?hid=91491&glfilter=29641890%3A29641910%2C29641911%2C29641912",
+  "class": "Уцененные и б/у смартфоны"
+},{
+  "_id": {
+    "$oid": "628e16ed6b5f4774eb27f12d"
+  },
+  "url": "https://market.yandex.ru/catalog--knopochnye-telefony/26893790/list?hid=91491&glfilter=21194330%3A34065287",
+  "class": "Кнопочные телефоны"
+},{
+  "_id": {
+    "$oid": "628e16ed6b5f4774eb27f12e"
+  },
+  "url": "https://market.yandex.ru/catalog--umnye-chasy-i-braslety/26893830/list?hid=10498025",
+  "class": "Умные часы и браслеты"
+},{
+  "_id": {
+    "$oid": "628e16ed6b5f4774eb27f12f"
+  },
+  "url": "https://market.yandex.ru/catalog--naushniki-i-bluetooth-garnitury/26893870/list?hid=90555",
+  "class": "Наушники и Bluetooth-гарнитуры"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f130"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-mobilnykh-telefonov/26893910?hid=91497",
+  "class": "Аксессуары для смартфонов"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f131"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-smart-chasov/26894370",
+  "class": "Аксессуары для смарт-часов"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f132"
+  },
+  "url": "https://market.yandex.ru/catalog--gadzhety-dlia-zdorovia-i-fitnesa/26894470",
+  "class": "Гаджеты для здоровья и фитнеса"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f133"
+  },
+  "url": "https://market.yandex.ru/catalog--ratsii/26894610",
+  "class": "Рации"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f134"
+  },
+  "url": "https://market.yandex.ru/catalog--radiotelefony/26894670/list?hid=91464",
+  "class": "Радиотелефоны"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f135"
+  },
+  "url": "https://market.yandex.ru/catalog--sputnikovye-telefony/26894730/list?hid=5081621",
+  "class": "Спутниковые телефоны"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f136"
+  },
+  "url": "https://market.yandex.ru/catalog--provodnye-telefony/26894750",
+  "class": "Проводные телефоны"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f137"
+  },
+  "url": "https://market.yandex.ru/catalog--karmannye-elektronnye-slovari-i-perevodchiki/26894810/list?hid=91151",
+  "class": "Словари и переводчики"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f138"
+  },
+  "url": "https://market.yandex.ru/catalog--zapchasti-dlia-mobilnykh-telefonov/26894850?hid=16633286",
+  "class": "Запчасти для мобильных телефонов"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f139"
+  },
+  "url": "https://market.yandex.ru/catalog--televizory/26960210/list?hid=90639",
+  "class": "Телевизоры"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f13a"
+  },
+  "url": "https://market.yandex.ru/catalog--kronshteiny-i-stoiki-dlia-televizorov-i-audiotekhniki/26960230/list?hid=90629",
+  "class": "Кронштейны и стойки"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f13b"
+  },
+  "url": "https://market.yandex.ru/catalog--pulty-du/26960250/list?hid=90627",
+  "class": "Пульты ДУ"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f13c"
+  },
+  "url": "https://market.yandex.ru/catalog--3d-ochki/26960270/list?hid=6334304",
+  "class": "3D-очки"
+},{
+  "_id": {
+    "$oid": "628e16ee6b5f4774eb27f13d"
+  },
+  "url": "https://market.yandex.ru/catalog--televizionnye-antenny-i-aksessuary/26960290/list?hid=10510546",
+  "class": "Телевизионные антенны и аксессуары"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f13e"
+  },
+  "url": "https://market.yandex.ru/catalog--proektory-i-videotekhnika/27244190",
+  "class": "Проекторы и видеотехника"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f13f"
+  },
+  "url": "https://market.yandex.ru/catalog--batareiki-i-akkumuliatory-dlia-audio-i-videotekhniki/28616887/list?hid=90626",
+  "class": "Батарейки и аккумуляторы"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f140"
+  },
+  "url": "https://market.yandex.ru/catalog--multimedia-proektory/26960370/list?hid=191219",
+  "class": "Мультимедиа-проекторы"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f141"
+  },
+  "url": "https://market.yandex.ru/catalog--proektsionnye-ekrany/26960390/list?hid=191213",
+  "class": "Экраны"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f142"
+  },
+  "url": "https://market.yandex.ru/catalog--interaktivnye-doski-i-aksessuary/26960430/list?hid=15885947",
+  "class": "Интерактивные доски и аксессуары"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f143"
+  },
+  "url": "https://market.yandex.ru/catalog--overkhed-i-slaid-proektory/26960490/list?hid=191217",
+  "class": "Оверхед и слайд-проекторы"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f144"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-proektorov/26960510/list?hid=240126",
+  "class": "Аксессуары для проекторов"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f145"
+  },
+  "url": "https://market.yandex.ru/catalog--lampy-dlia-proektorov/26960530/list?hid=14414447",
+  "class": "Лампы для проекторов"
+},{
+  "_id": {
+    "$oid": "628e16ef6b5f4774eb27f146"
+  },
+  "url": "https://market.yandex.ru/catalog--dokument-kamery/26960550/list?hid=4540980",
+  "class": "Документ-камеры"
+},{
+  "_id": {
+    "$oid": "628e16f06b5f4774eb27f147"
+  },
+  "url": "https://market.yandex.ru/catalog--prezentery/26960570/list?hid=18082000",
+  "class": "Презентеры"
+},{
+  "_id": {
+    "$oid": "628e16f06b5f4774eb27f148"
+  },
+  "url": "https://market.yandex.ru/catalog--tv-pristavki-i-mediapleery/26960590/list?hid=4165204",
+  "class": "ТВ-приставки и медиаплееры"
+},{
+  "_id": {
+    "$oid": "628e16f06b5f4774eb27f149"
+  },
+  "url": "https://market.yandex.ru/catalog--dvd-i-blu-ray-pleery/26960610/list?hid=90633",
+  "class": "DVD и Blu-ray плееры"
+},{
+  "_id": {
+    "$oid": "628e16f16b5f4774eb27f14a"
+  },
+  "url": "https://market.yandex.ru/catalog--tv-tiunery/26960630/list?hid=91105",
+  "class": "TV-тюнеры"
+},{
+  "_id": {
+    "$oid": "628e16f16b5f4774eb27f14b"
+  },
+  "url": "https://market.yandex.ru/catalog--sputnikovoe-televidenie/26960650/list?hid=90637",
+  "class": "Спутниковое телевидение"
+},{
+  "_id": {
+    "$oid": "628e16f16b5f4774eb27f14c"
+  },
+  "url": "https://market.yandex.ru/catalog--videostena/26961010/list?hid=10469630&glfilter=14778149%3A14778151",
+  "class": "Видеостена"
+},{
+  "_id": {
+    "$oid": "628e16f16b5f4774eb27f14d"
+  },
+  "url": "https://market.yandex.ru/catalog--batareiki-i-akkumuliatory-dlia-audio-i-videotekhniki/28616891/list?hid=90626",
+  "class": "Батарейки и аккумуляторы"
+},{
+  "_id": {
+    "$oid": "628e16f16b5f4774eb27f14e"
+  },
+  "url": "https://market.yandex.ru/catalog--setevoe-oborudovanie-wi-fi-i-bluetooth/27004010/list?hid=723087",
+  "class": "Wi-Fi роутеры"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f14f"
+  },
+  "url": "https://market.yandex.ru/catalog--provodnye-routery-marshrutizatory-i-kommutatory/27004090/list?hid=91088",
+  "class": "Проводные маршрутизаторы и коммутаторы"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f150"
+  },
+  "url": "https://market.yandex.ru/catalog--setevye-khranilishcha-nas/27004130/list?hid=6042233",
+  "class": "Сетевые хранилища (NAS)"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f151"
+  },
+  "url": "https://market.yandex.ru/catalog--3g-4g-lte-i-adsl-modemy/27004150/list?hid=91029",
+  "class": "3G/4G LTE и ADSL модемы"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f152"
+  },
+  "url": "https://market.yandex.ru/catalog--oborudovanie-dlia-audio-i-videokonferentsii/27004250/list?hid=91108",
+  "class": "Оборудование для конференций"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f153"
+  },
+  "url": "https://market.yandex.ru/catalog--voip-oborudovanie/27004270/list?hid=979262",
+  "class": "VoIP-оборудование"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f154"
+  },
+  "url": "https://market.yandex.ru/catalog--setevye-adaptery/27004310/list?hid=91095",
+  "class": "Сетевые адаптеры"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f155"
+  },
+  "url": "https://market.yandex.ru/catalog--bluetooth-adaptery/27004591/list?hid=91095&glfilter=33972070%3A34431730",
+  "class": "Bluetooth-адаптеры"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f156"
+  },
+  "url": "https://market.yandex.ru/catalog--sistemy-dostupa-i-kommunikatsionnye-servera/27004630/list?hid=91096",
+  "class": "KVM-консоли и кабели"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f157"
+  },
+  "url": "https://market.yandex.ru/catalog--konvertery-interfeisov-i-skorostei/27004650/list?hid=91100",
+  "class": "Медиаконвертеры"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f158"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-setevogo-oborudovaniia/27004710/list?hid=91094",
+  "class": "Аксессуары для сетевого оборудования"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f159"
+  },
+  "url": "https://market.yandex.ru/catalog--transivery/27004750/list?hid=91093",
+  "class": "Трансиверы"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f15a"
+  },
+  "url": "https://market.yandex.ru/catalog--gsm-i-voip-shliuzy/27004871/list?hid=7877876",
+  "class": "GSM и VoIP-шлюзы"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f15b"
+  },
+  "url": "https://market.yandex.ru/catalog--telekommunikatsionnye-shkafy-i-stoiki/27004930",
+  "class": "Телекоммуникационные шкафы и стойки"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f15c"
+  },
+  "url": "https://market.yandex.ru/catalog--mini-ats/27005290/list?hid=91468",
+  "class": "Мини-АТС"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f15d"
+  },
+  "url": "https://market.yandex.ru/catalog--oborudovanie-dlia-ats/27005350/list?hid=91484",
+  "class": "Оборудование для АТС"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f15e"
+  },
+  "url": "https://market.yandex.ru/catalog--multipleksory/27005410/list?hid=91089",
+  "class": "Мультиплексоры"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f15f"
+  },
+  "url": "https://market.yandex.ru/catalog--kommutatsionnye-paneli-i-komponenty/27005470/list?hid=17995119",
+  "class": "Коммутационные панели и компоненты"
+},{
+  "_id": {
+    "$oid": "628e16f26b5f4774eb27f160"
+  },
+  "url": "https://market.yandex.ru/catalog--kabeli-razemy-perekhodniki-dlia-kompiuterov-i-elektroniki/27005530/list?hid=91074",
+  "class": "Кабели, разъемы, переходники"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f161"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-videoregistratory/27021670/list?hid=6269371",
+  "class": "Видеорегистраторы"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f162"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomagnitoly/27021690/list?hid=90404",
+  "class": "Автомагнитолы"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f163"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnaia-akustika/27021710/list?hid=308016",
+  "class": "Автоакустика"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f164"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-usiliteli/27021730/list?hid=90408",
+  "class": "Усилители"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f165"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-televizory-i-monitory/27021750/list?hid=90417",
+  "class": "Автомобильные телевизоры"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f166"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary/27021770",
+  "class": "Аксессуары"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f167"
+  },
+  "url": "https://market.yandex.ru/catalog--gps-navigatory/27021910/list?hid=294661",
+  "class": "GPS-навигаторы"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f168"
+  },
+  "url": "https://market.yandex.ru/catalog--gps-trekery/27021930/list?hid=8367360",
+  "class": "GPS-трекеры"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f169"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-gps-navigatorov/27021950/list?hid=995786",
+  "class": "Аксессуары для GPS-навигаторов"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f16a"
+  },
+  "url": "https://market.yandex.ru/catalog--karty-i-programmy-gps-navigatsii/27021970/list?hid=995787",
+  "class": "Карты и программы GPS-навигации"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f16b"
+  },
+  "url": "https://market.yandex.ru/catalog--radar-detektory-avtomobilnye/27021990/list?hid=90462",
+  "class": "Радар-детекторы"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f16c"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-radiostantsii/27022010/list?hid=8231633",
+  "class": "Автомобильные радиостанции"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f16d"
+  },
+  "url": "https://market.yandex.ru/catalog--alkotestery/27022030/list?hid=6498837",
+  "class": "Алкотестеры"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f16e"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-invertory/27022050/list?hid=13373756",
+  "class": "Автомобильные инверторы"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f16f"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-bortovye-kompiutery/27022070/list?hid=4955914",
+  "class": "Бортовые компьютеры"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f170"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-kamery-zadnego-vida/27022090/list?hid=6496700",
+  "class": "Камеры заднего вида"
+},{
+  "_id": {
+    "$oid": "628e16f36b5f4774eb27f171"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-parkovochnye-radary/27022110/list?hid=90469",
+  "class": "Парктроники"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f172"
+  },
+  "url": "https://market.yandex.ru/catalog--transpondery-i-aksessuary/27022130/list?hid=16787511",
+  "class": "Транспондеры и аксессуары"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f173"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-ustroistva-gromkoi-sviazi/27022150/list?hid=4317343",
+  "class": "Устройства громкой связи"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f174"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-videointerfei-sy-i-navigatsionnye-bloki/27022170/list?hid=16567216",
+  "class": "Автомобильные видеоинтерфейсы и навигационные блоки"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f175"
+  },
+  "url": "https://market.yandex.ru/catalog--avtomobilnye-razvetviteli-prikurivatelia/27022190/list?hid=13430397",
+  "class": "Разветвители прикуривателя"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f176"
+  },
+  "url": "https://market.yandex.ru/catalog--noutbuki/26895412/list?hid=91013",
+  "class": "Ноутбуки"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f177"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-noutbukov/26895570",
+  "class": "Аксессуары для ноутбуков"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f178"
+  },
+  "url": "https://market.yandex.ru/catalog--geiming/26908310",
+  "class": "Гейминг"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f179"
+  },
+  "url": "https://market.yandex.ru/catalog--planshety/26908970/list?hid=6427100",
+  "class": "Планшеты"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f17a"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-planshetov/26908990",
+  "class": "Аксессуары для планшетов"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f17b"
+  },
+  "url": "https://market.yandex.ru/catalog--elektronnye-knigi/26909250/list?hid=2417247",
+  "class": "Электронные книги"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f17c"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-elektronnykh-knig/26909390",
+  "class": "Аксессуары для электронных книг"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f17d"
+  },
+  "url": "https://market.yandex.ru/catalog--graficheskie-planshety/26909530/list?hid=91113",
+  "class": "Графические планшеты"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f17e"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-graficheskikh-planshetov/26909550/list?hid=17487038",
+  "class": "Аксессуары для графических планшетов"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f17f"
+  },
+  "url": "https://market.yandex.ru/catalog--vneshnie-zhestkie-diski-i-ssd/26909590/list?hid=16309374",
+  "class": "Внешние жесткие диски и SSD"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f180"
+  },
+  "url": "https://market.yandex.ru/catalog--karty-flesh-pamiati/26909610/list?hid=91032",
+  "class": "Карты памяти"
+},{
+  "_id": {
+    "$oid": "628e16f46b5f4774eb27f181"
+  },
+  "url": "https://market.yandex.ru/catalog--usb-flash-drive/26909630/list?hid=288003",
+  "class": "USB Flash drive"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f182"
+  },
+  "url": "https://market.yandex.ru/catalog--ustroistva-dlia-chteniia-kart-pamiati/26909670/list?hid=469108",
+  "class": "Устройства для чтения карт памяти"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f183"
+  },
+  "url": "https://market.yandex.ru/catalog--akkumuliatory-dlia-noutbukov-i-planshetov/26909730/list?hid=91077",
+  "class": "Аккумуляторы для ноутбуков и планшетов"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f184"
+  },
+  "url": "https://market.yandex.ru/catalog--igrovye-noutbuki/34948602/list?hid=91013&glfilter=5085102%3A16880592",
+  "class": "Игровые ноутбуки"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f185"
+  },
+  "url": "https://market.yandex.ru/catalog--igry-dlia-pristavok-i-pk/34948595",
+  "class": "Игры"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f186"
+  },
+  "url": "https://market.yandex.ru/catalog--mobilnyi-geiming/34948588",
+  "class": "Мобильный гейминг"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f187"
+  },
+  "url": "https://market.yandex.ru/catalog--playstation/34948581",
+  "class": "PlayStation"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f188"
+  },
+  "url": "https://market.yandex.ru/catalog--xbox/34948575",
+  "class": "Xbox"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f189"
+  },
+  "url": "https://market.yandex.ru/catalog--nintendo/34948570",
+  "class": "Nintendo"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f18a"
+  },
+  "url": "https://market.yandex.ru/catalog--igrovye-pristavki/34948569/list?hid=91122",
+  "class": "Все игровые приставки"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f18b"
+  },
+  "url": "https://market.yandex.ru/catalog--igrovye-kompiutery/34948568/list?hid=91011&glfilter=29441290%3A1",
+  "class": "Игровые компьютеры"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f18c"
+  },
+  "url": "https://market.yandex.ru/catalog--retrokonsoli/34948567/list?hid=7798524",
+  "class": "Ретроконсоли"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f18d"
+  },
+  "url": "https://market.yandex.ru/catalog--4k-geiming/34948562",
+  "class": "4K гейминг"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f18e"
+  },
+  "url": "https://market.yandex.ru/catalog--igrovaia-periferiia/34948555",
+  "class": "Игровая периферия"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f18f"
+  },
+  "url": "https://market.yandex.ru/catalog--igrovye-komplektuiushchie/34948545",
+  "class": "Игровые комплектующие"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f190"
+  },
+  "url": "https://market.yandex.ru/catalog--ochki-virtualnoi-realnosti/34948544/list?hid=10972670",
+  "class": "Очки виртуальной реальности"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f191"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-ochkov-virtualnoi-realnosti/34948543/list?hid=16112364",
+  "class": "Аксессуары для очков виртуальной реальности"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f192"
+  },
+  "url": "https://market.yandex.ru/catalog--striming/34948537",
+  "class": "Стриминг"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f193"
+  },
+  "url": "https://market.yandex.ru/catalog--stoly-dlia-geiminga/34948536/list?hid=10785221&glfilter=21194330%3A22268770",
+  "class": "Столы для гейминга"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f194"
+  },
+  "url": "https://market.yandex.ru/catalog--kompiuternye-kresla/34948535/list?hid=10785222",
+  "class": "Компьютерные кресла"
+},{
+  "_id": {
+    "$oid": "628e16f56b5f4774eb27f195"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-igrovykh-pristavok/34948870/list?hid=186461",
+  "class": "Аксессуары для консолей"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f196"
+  },
+  "url": "https://market.yandex.ru/catalog--suveniry-dlia-geimerov/71146",
+  "class": "Сувениры для геймеров"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f197"
+  },
+  "url": "https://market.yandex.ru/catalog--fotoapparaty/26994650/list?hid=91148",
+  "class": "Цифровые фотоаппараты"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f198"
+  },
+  "url": "https://market.yandex.ru/catalog--obektivy-dlia-fotokamer/26995590/list?hid=90613",
+  "class": "Объективы"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f199"
+  },
+  "url": "https://market.yandex.ru/catalog--ekshn-kamery/26995636/list?hid=14369750",
+  "class": "Экшн-камеры"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f19a"
+  },
+  "url": "https://market.yandex.ru/catalog--videokamery/26995650/list?hid=15450276",
+  "class": "Видеокамеры"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f19b"
+  },
+  "url": "https://market.yandex.ru/catalog--ruchnye-stabilizatory-i-stedikamy/26995670/list?hid=15880008",
+  "class": "Ручные стабилизаторы и стедикамы"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f19c"
+  },
+  "url": "https://market.yandex.ru/catalog--fotovspyshki/26995810/list?hid=90617",
+  "class": "Фотовспышки"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f19d"
+  },
+  "url": "https://market.yandex.ru/catalog--plenochnye-fotoapparaty/26995870/list?hid=179660",
+  "class": "Пленочные фотоаппараты"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f19e"
+  },
+  "url": "https://market.yandex.ru/catalog--fotoapparaty-momentalnoi-pechati/26995890/list?hid=10590810",
+  "class": "Фотоаппараты моментальной печати"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f19f"
+  },
+  "url": "https://market.yandex.ru/catalog--shtativy-i-monopody-dlia-foto-i-videokamer/26995970/list?hid=90619",
+  "class": "Штативы и моноподы"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a0"
+  },
+  "url": "https://market.yandex.ru/catalog--tsifrovye-fotoramki-i-fotoalbomy/26995990/list?hid=1596792",
+  "class": "Цифровые фоторамки и фотоальбомы"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a1"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-foto-i-videotekhniki/26996030",
+  "class": "Аксессуары для фото- и видеотехники"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a2"
+  },
+  "url": "https://market.yandex.ru/catalog--fotoprintery/26997910/list?hid=138608",
+  "class": "Фотопринтеры"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a3"
+  },
+  "url": "https://market.yandex.ru/catalog--spetsialnoe-oborudovanie/26997950",
+  "class": "Специальное оборудование"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a4"
+  },
+  "url": "https://market.yandex.ru/catalog--opticheskie-pribory/26998170",
+  "class": "Оптические приборы"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a5"
+  },
+  "url": "https://market.yandex.ru/catalog--kvadrokoptery-s-kameroi/26998570/list?hid=12410815&glfilter=25491650%3A25491731%2C25491711",
+  "class": "Квадрокоптеры с камерой"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a6"
+  },
+  "url": "https://market.yandex.ru/catalog--bytovaia-tekhnika/27243550",
+  "class": "Бытовая техника"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a7"
+  },
+  "url": "https://market.yandex.ru/catalog--klimat/27009390",
+  "class": "Климат"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a8"
+  },
+  "url": "https://market.yandex.ru/catalog--krasota-i-zdorove/28972810",
+  "class": "Красота и здоровье"
+},{
+  "_id": {
+    "$oid": "628e16f66b5f4774eb27f1a9"
+  },
+  "url": "https://market.yandex.ru/catalog--elektronika/28973310",
+  "class": "Электроника"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1aa"
+  },
+  "url": "https://market.yandex.ru/catalog--osveshchenie-i-elektrika/27008990",
+  "class": "Освещение и электрика"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1ab"
+  },
+  "url": "https://market.yandex.ru/catalog--bezopasnost/28997850",
+  "class": "Безопасность"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1ac"
+  },
+  "url": "https://market.yandex.ru/catalog--kvadrokoptery/27022230",
+  "class": "Квадрокоптеры"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1ad"
+  },
+  "url": "https://market.yandex.ru/catalog--3d-printery/27022410/list?hid=9283442",
+  "class": "3D-принтеры"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1ae"
+  },
+  "url": "https://market.yandex.ru/catalog--raskhodnye-materialy-i-aksessuary-dlia-3d-printerov/27022430/list?hid=15293531",
+  "class": "Расходные материалы и аксессуары для 3D-принтеров"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1af"
+  },
+  "url": "https://market.yandex.ru/catalog--3d-ruchki/27022450/list?hid=16611586",
+  "class": "3D-ручки"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b0"
+  },
+  "url": "https://market.yandex.ru/catalog--robototekhnika-i-konstruktory/27022470",
+  "class": "Робототехника и конструкторы"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b1"
+  },
+  "url": "https://market.yandex.ru/catalog--monitory/26910011/list?hid=91052",
+  "class": "Мониторы"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b2"
+  },
+  "url": "https://market.yandex.ru/catalog--monobloki/26910070/list?hid=12382295",
+  "class": "Моноблоки"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b3"
+  },
+  "url": "https://market.yandex.ru/catalog--nastolnye-kompiutery/26910110/list?hid=91011",
+  "class": "Системные блоки"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b4"
+  },
+  "url": "https://market.yandex.ru/catalog--geiming/26911310",
+  "class": "Гейминг"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b5"
+  },
+  "url": "https://market.yandex.ru/catalog--komplektuiushchie-dlia-kompiutera/26912630",
+  "class": "Комплектующие для компьютера"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b6"
+  },
+  "url": "https://market.yandex.ru/catalog--klaviatury/26913110/list?hid=14334315",
+  "class": "Клавиатуры"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b7"
+  },
+  "url": "https://market.yandex.ru/catalog--myshi/26913130/list?hid=14333188",
+  "class": "Мыши"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b8"
+  },
+  "url": "https://market.yandex.ru/catalog--komplekty-klaviatur-i-myshei/26913150/list?hid=723088",
+  "class": "Комплекты клавиатур и мышей"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1b9"
+  },
+  "url": "https://market.yandex.ru/catalog--ruli-dzhoistiki-geimpady/26913170/list?hid=91117",
+  "class": "Рули, джойстики, геймпады"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1ba"
+  },
+  "url": "https://market.yandex.ru/catalog--kompiuternye-garnitury/26913190/list?hid=6368403",
+  "class": "Компьютерные гарнитуры"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1bb"
+  },
+  "url": "https://market.yandex.ru/catalog--kompiuternaia-akustika/26913210/list?hid=91107",
+  "class": "Компьютерная акустика"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1bc"
+  },
+  "url": "https://market.yandex.ru/catalog--veb-kamery/26913250/list?hid=4684840",
+  "class": "Веб-камеры"
+},{
+  "_id": {
+    "$oid": "628e16f76b5f4774eb27f1bd"
+  },
+  "url": "https://market.yandex.ru/catalog--vneshnie-diski-i-flesh-nakopiteli/26913270",
+  "class": "Внешние диски и флэш-накопители"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1be"
+  },
+  "url": "https://market.yandex.ru/catalog--programmy/26913430/list?hid=10983253",
+  "class": "Программы"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1bf"
+  },
+  "url": "https://market.yandex.ru/catalog--igry-dlia-pc/26913530/list?hid=14960839&glfilter=14961037%3A14971969",
+  "class": "Игры для PC"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c0"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-kompiuterov-i-monitorov/26913550",
+  "class": "Аксессуары для компьютеров и мониторов"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c1"
+  },
+  "url": "https://market.yandex.ru/catalog--promyshlennye-kompiutery-i-servery/26913850",
+  "class": "Промышленные компьютеры и серверы"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c2"
+  },
+  "url": "https://market.yandex.ru/catalog--istochniki-bespereboinogo-pitaniia/26914090",
+  "class": "Источники бесперебойного питания"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c3"
+  },
+  "url": "https://market.yandex.ru/catalog--stabilizatory-elektricheskogo-napriazheniia/26914150/list?hid=226666",
+  "class": "Стабилизаторы напряжения"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c4"
+  },
+  "url": "https://market.yandex.ru/catalog--udliniteli-i-setevye-filtry/26914170/list?hid=15618862",
+  "class": "Удлинители и сетевые фильтры"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c5"
+  },
+  "url": "https://market.yandex.ru/catalog--batareiki-i-akkumuliatory-dlia-audio-i-videotekhniki/26914470/list?hid=90626",
+  "class": "Батарейки и аккумуляторы"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c6"
+  },
+  "url": "https://market.yandex.ru/catalog--zariadnye-ustroistva-dlia-standartnykh-akkumuliatorov/26914510/list?hid=14946301",
+  "class": "Зарядные устройства для стандартных аккумуляторов"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c7"
+  },
+  "url": "https://market.yandex.ru/catalog--chistiashchie-prinadlezhnosti-dlia-kompiuternoi-tekhniki/26914590/list?hid=91078",
+  "class": "Чистящие принадлежности"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c8"
+  },
+  "url": "https://market.yandex.ru/catalog--kompiuternaia-mebel/26914730",
+  "class": "Компьютерная мебель"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1c9"
+  },
+  "url": "https://market.yandex.ru/catalog--naushniki-i-bluetooth-garnitury/26992150/list?hid=90555",
+  "class": "Наушники и Bluetooth-гарнитуры"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1ca"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-naushnikov-i-garnitur/26992270/list?hid=16265387",
+  "class": "Аксессуары для наушников и гарнитур"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1cb"
+  },
+  "url": "https://market.yandex.ru/catalog--umnye-kolonki/26992350/list?hid=15553892",
+  "class": "Умные колонки"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1cc"
+  },
+  "url": "https://market.yandex.ru/catalog--portativnaia-akustika/26992430/list?hid=2724669",
+  "class": "Беспроводные колонки"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1cd"
+  },
+  "url": "https://market.yandex.ru/catalog--akusticheskie-sistemy/26992810",
+  "class": "Акустические системы"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1ce"
+  },
+  "url": "https://market.yandex.ru/catalog--audiousiliteli-i-resivery/26993430/list?hid=90554",
+  "class": "Усилители и ресиверы"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1cf"
+  },
+  "url": "https://market.yandex.ru/catalog--mikrofony/26993490",
+  "class": "Микрофоны"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1d0"
+  },
+  "url": "https://market.yandex.ru/catalog--proigryvateli-vinilovykh-diskov/26993630",
+  "class": "Проигрыватели виниловых дисков"
+},{
+  "_id": {
+    "$oid": "628e16f86b5f4774eb27f1d1"
+  },
+  "url": "https://market.yandex.ru/catalog--muzykalnye-tsentry/26993791/list?hid=90544",
+  "class": "Музыкальные центры"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1d2"
+  },
+  "url": "https://market.yandex.ru/catalog--tsifrovye-pleery-i-diktofony/26993810",
+  "class": "Цифровые плееры и диктофоны"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1d3"
+  },
+  "url": "https://market.yandex.ru/catalog--karaoke/26994230/list?hid=278420",
+  "class": "Системы караоке"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1d4"
+  },
+  "url": "https://market.yandex.ru/catalog--cd-proigryvateli/26994270/list?hid=90549",
+  "class": "CD-проигрыватели"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1d5"
+  },
+  "url": "https://market.yandex.ru/catalog--domashnie-kinoteatry/26994290/list?hid=90636",
+  "class": "Домашние кинотеатры"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1d6"
+  },
+  "url": "https://market.yandex.ru/catalog--tsifro-analogovye-preobrazovateli/26994331/list?hid=6374322",
+  "class": "Цифро-аналоговые преобразователи"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1d7"
+  },
+  "url": "https://market.yandex.ru/catalog--radiopriemniki/26994350/list?hid=90546",
+  "class": "Радиоприемники"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1d8"
+  },
+  "url": "https://market.yandex.ru/catalog--magnitoly/26994450/list?hid=90545",
+  "class": "Магнитолы"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1d9"
+  },
+  "url": "https://market.yandex.ru/catalog--radiotiunery/26994491/list?hid=90550",
+  "class": "Радиотюнеры"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1da"
+  },
+  "url": "https://market.yandex.ru/catalog--megafony-i-usiliteli-golosa/26994530/list?hid=18539830",
+  "class": "Мегафоны и усилители голоса"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1db"
+  },
+  "url": "https://market.yandex.ru/catalog--printery-i-mfu/27002250",
+  "class": "Принтеры и МФУ"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1dc"
+  },
+  "url": "https://market.yandex.ru/catalog--skanery/27002450/list?hid=91112",
+  "class": "Сканеры"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1dd"
+  },
+  "url": "https://market.yandex.ru/catalog--unichtozhiteli-bumag-shredery/27002470/list?hid=90728",
+  "class": "Уничтожители бумаг (шредеры)"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1de"
+  },
+  "url": "https://market.yandex.ru/catalog--kopiry-i-duplikatory/27002530/list?hid=308025",
+  "class": "Копиры и дупликаторы"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1df"
+  },
+  "url": "https://market.yandex.ru/catalog--rezhushchie-plottery/27002570/list?hid=91068",
+  "class": "Режущие плоттеры"
+},{
+  "_id": {
+    "$oid": "628e16f96b5f4774eb27f1e0"
+  },
+  "url": "https://market.yandex.ru/catalog--broshiurovshchiki/27002630/list?hid=90727",
+  "class": "Брошюровщики"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e1"
+  },
+  "url": "https://market.yandex.ru/catalog--rezaki-dlia-bumagi/27002650/list?hid=7718838",
+  "class": "Резаки"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e2"
+  },
+  "url": "https://market.yandex.ru/catalog--laminatory/27002730/list?hid=90726",
+  "class": "Ламинаторы"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e3"
+  },
+  "url": "https://market.yandex.ru/catalog--kalkuliatory/27002812/list?hid=90725",
+  "class": "Калькуляторы"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e4"
+  },
+  "url": "https://market.yandex.ru/catalog--faksy/27002870/list?hid=91465",
+  "class": "Факсы"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e5"
+  },
+  "url": "https://market.yandex.ru/catalog--sistemnye-telefony/27003070/list?hid=91469",
+  "class": "Системные телефоны"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e6"
+  },
+  "url": "https://market.yandex.ru/catalog--print-servery/27003090/list?hid=91090",
+  "class": "Принт-серверы"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e7"
+  },
+  "url": "https://market.yandex.ru/catalog--interaktivnye-doski-i-aksessuary/27003231/list?hid=15885947",
+  "class": "Интерактивные доски и аксессуары"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e8"
+  },
+  "url": "https://market.yandex.ru/catalog--kartridzhi-i-raskhodnye-materialy/27003270",
+  "class": "Картриджи и расходные материалы"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1e9"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-i-zapchasti/27003610",
+  "class": "Аксессуары и запчасти"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1ea"
+  },
+  "url": "https://market.yandex.ru/catalog--chistiashchie-prinadlezhnosti-dlia-kompiuternoi-tekhniki/27003810/list?hid=91078",
+  "class": "Чистящие принадлежности"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1eb"
+  },
+  "url": "https://market.yandex.ru/catalog--sintezatory-pianino-i-midi-klaviatury/27009750/list?hid=91248",
+  "class": "Синтезаторы и MIDI-клавиатуры"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1ec"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-klavishnykh-instrumentov/27009770/list?hid=17844717",
+  "class": "Аксессуары для клавишных"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1ed"
+  },
+  "url": "https://market.yandex.ru/catalog--elektrogitary-i-bas-gitary/27009870",
+  "class": "Электрогитары и бас-гитары"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1ee"
+  },
+  "url": "https://market.yandex.ru/catalog--elektronnye-skripki-i-kontrabasy/27010650/list?hid=4992522&glfilter=17815858%3A17815866%2C17815864",
+  "class": "Электронные скрипки и контрабасы"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1ef"
+  },
+  "url": "https://market.yandex.ru/catalog--elektronnye-udarnye-ustanovki/27010670/list?hid=16732562&glfilter=16741544%3A16741548",
+  "class": "Электронные ударные установки"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1f0"
+  },
+  "url": "https://market.yandex.ru/catalog--tiunery-i-metronomy/27021450/list?hid=17438978",
+  "class": "Тюнеры и метрономы"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1f1"
+  },
+  "url": "https://market.yandex.ru/catalog--aksessuary-dlia-muzykalnykh-instrumentov/27021470/list?hid=91249",
+  "class": "Аксессуары"
+},{
+  "_id": {
+    "$oid": "628e16fa6b5f4774eb27f1f2"
+  },
+  "url": "https://market.yandex.ru/catalog--dj-oborudovanie/27021490",
+  "class": "DJ оборудование"
+},{
+  "_id": {
+    "$oid": "628e16fb6b5f4774eb27f1f3"
+  },
+  "url": "https://market.yandex.ru/catalog--radioupravliaemye-mashiny-i-mototsikly/27036350/list?hid=14808696&glfilter=21194330%3A22838732%2C22796010%2C22796170%2C22838750%2C22839231%2C22796030%2C22796350%2C22796370%2C22838950%2C22838951%2C23448670%2C23448570",
+  "class": "Радиоуправляемые машины и мотоциклы"
+},{
+  "_id": {
+    "$oid": "628e16fb6b5f4774eb27f1f4"
+  },
+  "url": "https://market.yandex.ru/catalog--radioupravliaemye-tanki/27036590/list?hid=14808696&glfilter=21194330%3A22839150",
+  "class": "Радиоуправляемые танки"
+},{
+  "_id": {
+    "$oid": "628e16fb6b5f4774eb27f1f5"
+  },
+  "url": "https://market.yandex.ru/catalog--radioupravliaemye-samolety-vertolety/27042050/list?hid=14808696&glfilter=14816843%3A14816868",
+  "class": "Радиоуправляемые самолеты, вертолеты"
+},{
+  "_id": {
+    "$oid": "628e16fb6b5f4774eb27f1f6"
+  },
+  "url": "https://market.yandex.ru/catalog--radioupravliaemyi-vodnyi-transport/27042770/list?hid=14808696&glfilter=14816843%3A14816847",
+  "class": "Радиоуправляемый водный транспорт"
+},{
+  "_id": {
+    "$oid": "628e16fb6b5f4774eb27f1f7"
+  },
+  "url": "https://market.yandex.ru/catalog--komplektuiushchie-i-aksessuary-dlia-mashinok-i-radioupravliaemykh-modelei/27042870/list?hid=966823",
+  "class": "Комплектующие для моделей"
+}]
