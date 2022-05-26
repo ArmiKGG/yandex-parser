@@ -57,6 +57,7 @@ driver = prepare_driver()
 data = match_all_orgs(es)["hits"]["hits"]
 
 for ind, i in enumerate(data):
+    category = i["class"]
     driver.get(i["_source"]["url"].split("?")[0])
     if ind == 0:
         time.sleep(300)
@@ -72,6 +73,7 @@ for ind, i in enumerate(data):
         datasa = parser(soup)
         print(datasa)
         for d in datasa:
+            d["class"] = category
             insert_product(es, d)
         pickle.dump(driver.get_cookies(), open("yandex.pkl", "wb"))
     except:
