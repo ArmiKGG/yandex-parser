@@ -89,17 +89,17 @@ services:
       - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
 
 
-  yandex_marketer:
-    build: .
-    links:
-      - selenium-router
-    shm_size: 2gb
-    depends_on:
-      - selenium-router
-    restart: always
-    environment:
-      - STARTING_PAGE=market.yandex.ru
-      - ROUTER=selenium-router
-      - ROUTER_PORT=4444
-      - ES_LOG=admin
-      - ES_PAS=tMwQHCgwPHWcyvQ9XXwwMc38
+#   yandex_marketer:
+#     build: .
+#     links:
+#       - selenium-router
+#     shm_size: 2gb
+#     depends_on:
+#       - selenium-router
+#     restart: always
+#     environment:
+#       - STARTING_PAGE=market.yandex.ru
+#       - ROUTER=selenium-router
+#       - ROUTER_PORT=4444
+#       - ES_LOG=admin
+#       - ES_PAS=tMwQHCgwPHWcyvQ9XXwwMc38
