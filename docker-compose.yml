@@ -76,7 +76,7 @@ services:
       - SE_SESSION_QUEUE_PORT=5559
 
   firefox_worker_1:
-    image: selenium/node-chrome
+    image: selenium/node-firefox
     shm_size: 2gb
     restart: always
     depends_on:
